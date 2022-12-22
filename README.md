@@ -13,12 +13,14 @@ The game has 3 levels of difficulty:
   - **Difficulty 3**: The speed of the snake increases even more. In addition, there are 8 more walls compared to the 2nd difficulty.
   
  <br>
+ 
  ### How to play
  -> Make your own settings: sound, matrix brightness, lcd brightness, lcd contrast
  -> Chose the difficulty you want
  -> Eat as much food as you can
  
  <br>
+ 
  ### Used components
  - Matrix(8x8)
  - LCD display 
@@ -28,9 +30,11 @@ The game has 3 levels of difficulty:
  - Wires and resistors
  
  <br>
+ 
  ### Image
  ![Snake-game](assets/snake-game-matrix.jpeg)
  
  <br>
+ 
  ### Video
  <a href =  "https://www.youtube.com/watch?v=YxQ3Y7-9uAM&t=12s&ab_channel=MihaiB%C3%AErsan"><img src = "assets/snake-game-matrix.jpeg"></a>
